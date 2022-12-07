@@ -1,0 +1,7 @@
+*
+
+!.gitignore
+!*.c
+!*.chpl
+!*.md
+!*.asm
